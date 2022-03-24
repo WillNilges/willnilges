@@ -1,4 +1,4 @@
-### Hi, I'm  🦎 🏳️‍🌈 Willard (he/him) 🐧 👾
+### Hi, I'm Willard (he/him) 🦎 🏳️‍🌈 🐧 👾
 
 I'm a 4th Year Computer Engineering Major at RIT, Linux Fanatic, OpenShift Goblin™, and Shiny Object Enthusiast.
 
