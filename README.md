@@ -10,7 +10,7 @@ This summer, I'll be Co-Op'ing at Datadog working on their Metrics Resolution te
 
 You can check out my website at https://nilges.me
 
-[My resume can also be found here](https://resume.nilges.me)
+[My resume can also be found here](http://resume.nilges.me)
 
 Cheers!
 
