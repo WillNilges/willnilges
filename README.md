@@ -8,9 +8,7 @@ Currently, I'm directing CSH's ImagineRIT project, CSHacked! We're building a co
 
 This summer, I'll be Co-Op'ing at Datadog working on their Metrics Resolution team. Super excited for that!
 
-You can check out my websites here:
-- https://nilges.me
-- http://wilnil.gay
+You can check out my website at https://nilges.me
 
 [My resume can also be found here](https://resume.nilges.me)
 
