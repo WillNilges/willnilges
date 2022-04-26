@@ -4,7 +4,7 @@ I'm a 4th Year Computer Engineering Major at RIT, Linux Fanatic, OpenShift Gobli
 
 I work on all kinds of stuff. More often than not it's probably some backend/devops nonsense for @ComputerScienceHouse, the student org that ~~owns my soul~~ I'm a part of.
 
-Currently, I'm directing CSH's ImagineRIT project, CSHacked! We're building a cool asset-tracking mesh network and we're going to give people access to it the day of imagine and challenge them to find some "hackers" that are roaming campus.
+I just finished directing CSH's ImagineRIT project, CSHacked! We built a cool asset-tracking mesh network and gave people access to it the during ImagineRIT 2022 so they could find some "hackers" that roaming campus. It was a smashing success! I'm so proud of everyone who worked on it, they did a great job!
 
 This summer, I'll be Co-Op'ing at Datadog working on their Metrics Resolution team. Super excited for that!
 
@@ -13,18 +13,3 @@ This summer, I'll be Co-Op'ing at Datadog working on their Metrics Resolution te
 </h3>
 
 Cheers!
-
-<!--
-**WillNilges/willnilges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
