@@ -12,10 +12,8 @@ I have a handful of projects that I'm _trying_ to work on, if only I'd stop gett
 
 Currently Co-Op'ing at Datadog working on their Metrics Resolution team maintaining services in Python and Go (and learning a helluva lot about distributed systems and cloud infra while I'm at it).
 
-Here are some links. Happy Pride! 🏳️‍⚧️ 🏳️‍🌈 ❤️ 
-
 <h3 align="center">
   <a href="https://nilges.me">website</a> | <a href="http://resume.nilges.me">resume</a>
 </h3>
 
-Cheers!
+Happy Pride! 🏳️‍⚧️ 🏳️‍🌈 ❤️ 
