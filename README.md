@@ -1,6 +1,8 @@
 ### Hi, I'm Willard (he/him) 🦎 🏳️‍🌈 🐧 👾
 
-I'm a 5th Year Computer Engineering Major at RIT, Linux Fanatic, OpenShift Goblin™, and Shiny Object Enthusiast.
+<h5 align="center">
+5th Year Computer Engineering Major at RIT, Linux Fanatic, OpenShift Goblin™, and Shiny Object Enthusiast.
+</h5>
 
 I work on all kinds of stuff. More often than not it's probably some backend/devops nonsense for @ComputerScienceHouse. My friends in Rochester are deploying shiny new hardware to play with 🔥 So I'm putting some time into improving the software that runs on that hardware, like [proxstar](https://github.com/computersciencehouse/proxstar)
 
