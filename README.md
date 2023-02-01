@@ -4,7 +4,7 @@
 <strong>5th Year Computer Engineering Major at RIT, Linux Fanatic, OpenShift Goblin™, and Shiny Object Enthusiast.</strong>
 </p>
 
-I work on all kinds of stuff. Lately, it has been a mix of CUDA, socket programming, embedded VR technology, computer vision, 2D gaming, and other backend/devops/embedded nonsense. 
+I work on all kinds of stuff. Lately, it has been a mix of CUDA, socket programming, embedded VR technology, computer vision, networking, and other backend/devops/embedded nonsense. 
 
 I'd pick just one thing to focus on, but that'd require not getting distracted by shiny objects 🙃
 
