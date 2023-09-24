@@ -4,7 +4,7 @@
 <strong>Computer Engineer, Linux Fanatic, OpenShift Goblin™, and Shiny Object Enthusiast.</strong>
 </p>
 
-I work on all kinds of stuff. Mosly devops, VR Hacking, graphics programming, and the occasional tool or script for a wide variety of _extremely_ unrelated projects.
+I work on all kinds of stuff. Mosly devops, VR Hacking, graphics programming, and the occasional tool or script for a wide variety of _extremely_ unrelated projects. I also do backend at Datadog.
 
 I'd pick just one thing to focus on, but that'd require not getting distracted by shiny objects 🙃
 
