@@ -1,12 +1,10 @@
 ### Hi, I'm Willard 🦎 🏳️‍🌈 🐧 👾
 
 <p align="center">
-<strong>Computer Engineer, Linux Fanatic, OpenShift Goblin™, and Shiny Object Enthusiast.</strong>
+<strong>Computer Engineer, Linux Fanatic, DevOps Goblin™.</strong>
 </p>
 
-I work on all kinds of stuff. Mosly devops, VR Hacking, graphics programming, and the occasional tool or script for a wide variety of _extremely_ unrelated projects. I also do backend at Datadog.
-
-I'd pick just one thing to focus on, but that'd require not getting distracted by shiny objects 🙃
+I'm interested in a pretty wide variety of computing topics, and I work on all kinds of stuff. Right now, it's a lot of software tools, monitoring, and other services for [NYC Mesh](https://nycmesh.net). I'm also a backend programmer at [Datadog](https://datadoghq.com). Currently living in NYC, always down to meet new folks!
 
 <h3 align="center">
   <a href="https://nilges.me">website</a> | <a href="http://resume.nilges.me">resume</a>
