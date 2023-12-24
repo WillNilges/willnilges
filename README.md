@@ -4,7 +4,9 @@
 <strong>Computer Engineer, Linux Fanatic, DevOps Goblin™.</strong>
 </p>
 
-II work on all kinds of stuff. Right now, it's a lot of software tools, monitoring, and other services for [NYC Mesh](https://nycmesh.net). I'm also a backend programmer at [Datadog](https://datadoghq.com).
+<p align="center">
+Backend programmer at <a href="https://datadoghq.com">Datadog</a>. In my freetime, I do installs, write code, and generally wreak havoc with <a href="https://nycmesh.net">NYC Mesh</a>.
+</p>
 
 <h3 align="center">
   <a href="https://nilges.me">website</a> | <a href="http://resume.nilges.me">resume</a>
